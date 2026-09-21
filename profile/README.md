@@ -8,7 +8,7 @@ Two of them are open source and free.
 | | What it does | |
 |---|---|---|
 | **[browser-mcp](https://github.com/Agent360dk/browser-mcp)** | Drives your real, signed-in Chrome. When it hits a 2FA code, a CAPTCHA or a choice only you can make, it asks on your screen and then carries on in the same tab. 40 tools. | [browsermcp.dev](https://browsermcp.dev) · [npm](https://www.npmjs.com/package/@agent360/browser-mcp) |
-| **[computer-mcp](https://github.com/Agent360dk/computerMCP)** | The same idea for the rest of your Mac. Password fields are blacked out in memory before a screenshot is written, writes need your consent, and the log only grows. 28 tools, 12 read-only. Runs in the background by default. | [computermcp.dev](https://computermcp.dev) · [npm](https://www.npmjs.com/package/@agent360/computer-mcp) |
+| **[computer-mcp](https://github.com/Agent360dk/computerMCP)** | The same idea for the rest of your Mac. Password fields are blacked out in memory before a screenshot is written, and the log only grows. 28 tools, 12 read-only. It runs in the background by default, which means it will not touch anything until you choose: dialogs on, or asking off. | [computermcp.dev](https://computermcp.dev) · [npm](https://www.npmjs.com/package/@agent360/computer-mcp) |
 
 Both are MIT, need no account and no API key, and make no network calls of their own.
 
